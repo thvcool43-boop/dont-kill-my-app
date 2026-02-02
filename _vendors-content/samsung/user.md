@@ -1,4 +1,4 @@
----
+panoscrobble 
 manufacturer: samsung
 
 ---
